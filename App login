@@ -1,0 +1,6 @@
+login-app/
+ ├─ index.html        ← Login screen
+ ├─ signup.html       ← Signup screen (NEW)
+ ├─ style.css
+ ├─ script.js
+ └─ logo.png
